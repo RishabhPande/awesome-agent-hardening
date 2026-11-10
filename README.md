@@ -167,6 +167,8 @@ I write security practices for agent platforms and review what teams build on th
 - [Spyware Injection Into Your ChatGPT's Long-Term Memory](https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/) - A prompt injection wrote itself into ChatGPT's long-term memory and leaked later conversations through image URLs.
 - [Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation](https://embracethered.com/blog/posts/2025/gemini-memory-persistence-prompt-injection/) - A document the user asked Gemini to summarize told it to end with a question, and the user's ordinary "yes" fired the memory tool and saved made-up facts about them. Google rated it low likelihood and low impact.
 
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - A local synthetic demo of poisoned memory on real backends, origin-aware recall and the limit of conflict-scoped repair when no owner policy exists.
+
 ## Skills and Marketplaces
 
 - [Malicious ClawHub skills target OpenClaw users](https://opensourcemalware.com/blog/malicious-clawhub-skills-target-openclaw-users) - 386 fake crypto trading skills talked users into running stealers for exchange keys and wallets.
